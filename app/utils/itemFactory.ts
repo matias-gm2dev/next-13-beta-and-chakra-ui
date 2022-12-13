@@ -1,0 +1,1 @@
+export const itemFactory = (label: string, href: string) => ({ label, href });
